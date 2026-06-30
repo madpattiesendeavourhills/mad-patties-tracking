@@ -1,0 +1,42 @@
+{
+  "/": {
+    "name": "Homepage",
+    "campaign": "homepage",
+    "url": "https://order.online/store/mad-patties-endeavour-hills-23013986"
+  },
+  "/takeaway": {
+    "name": "Takeaway Menu QR",
+    "campaign": "takeaway_menu",
+    "url": "https://order.online/store/mad-patties-endeavour-hills-23013986"
+  },
+  "/table": {
+    "name": "Table Stand QR",
+    "campaign": "table_stand",
+    "url": "https://order.online/store/mad-patties-endeavour-hills-23013986"
+  },
+  "/mobile": {
+    "name": "Mobile Stand QR",
+    "campaign": "mobile_stand",
+    "url": "https://order.online/store/mad-patties-endeavour-hills-23013986"
+  },
+  "/flyer": {
+    "name": "Flyer QR",
+    "campaign": "flyer",
+    "url": "https://order.online/store/mad-patties-endeavour-hills-23013986"
+  },
+  "/window": {
+    "name": "Window Sticker QR",
+    "campaign": "window_sticker",
+    "url": "https://order.online/store/mad-patties-endeavour-hills-23013986"
+  },
+  "/poster": {
+    "name": "Poster QR",
+    "campaign": "poster",
+    "url": "https://order.online/store/mad-patties-endeavour-hills-23013986"
+  },
+  "/review": {
+    "name": "Google Review QR",
+    "campaign": "google_review",
+    "url": "https://www.google.com/search?q=Mad+Patties+Endeavour+Hills+Google+Review"
+  }
+}
